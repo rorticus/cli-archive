@@ -1,5 +1,5 @@
 {
-  "name": "cli-archive",
+  "name": "dojo-cli-build-archive",
   "version": "1.0.0",
   "main": "src/main.js",
   "dependencies": {
